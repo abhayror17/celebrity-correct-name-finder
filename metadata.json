@@ -1,0 +1,5 @@
+{
+  "name": "Personality De-duplicator",
+  "description": "Leveraging Gemini and Google Search to intelligently determine if two names in an Excel file refer to the same person.",
+  "requestFramePermissions": []
+}
